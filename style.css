@@ -828,6 +828,19 @@ h4.idea {
   text-align: center;
 }
 
+.footer-credit {
+  margin: 0;
+  max-width: none;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--muted-meta);
+  text-align: center;
+}
+
+.footer-credit a {
+  color: inherit;
+}
+
 /* ============================================
    Responsive
    ============================================ */

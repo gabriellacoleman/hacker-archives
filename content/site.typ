@@ -195,6 +195,13 @@
       )
     ]
     #html.elem("p", attrs: (class: "footer-tagline"))[Archiving the Cultures of Hacking]
+    #html.elem("p", attrs: (class: "footer-credit"))[
+      Powered by #html.elem("a", attrs: (
+        href: "https://github.com/freecomputinglab/rookery",
+        target: "_blank",
+        rel: "noopener noreferrer",
+      ))[Rookery]
+    ]
   ]
 }
 
